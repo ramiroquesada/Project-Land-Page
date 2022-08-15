@@ -169,16 +169,20 @@ li{
     font-weight: 1000;
     color: #1F2937;
     max-width: 61%;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
     font-style: italic;
 }
 
 
 .third-second-text{
-    display: flex;
-   
+   float: right;
+        
     
     max-width: 61%;
+}
+
+.third-container{
+    width: 61%;
 }
 
 
